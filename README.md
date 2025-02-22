@@ -30,7 +30,7 @@ This Power Automate flow is designed to send weekly reminders for timesheet subm
    - If there are employees who have not submitted, an email is sent with a list of pending individuals.
    - If all employees have submitted their timesheets, a success email is sent to confirm that all submissions are complete.
 
-## ![Timesheet Reminder Flow](images/flow.png)
+## ![Timesheet Reminder Flow](https://github.com/Gaya39597/PowerAutomate-Projects/blob/main/flows/image.png)
 
 ## Tools Used:
 - **Power Automate**: For automating the flow.
